@@ -1,0 +1,24 @@
+[{ 
+    "id": 1,
+    "name": "Bom Beef - Vila Leopoldina",
+    "street_name": "Rua Guaipá",
+    "street_number": "481",
+    "city": "São Paulo",
+    "state": "SP",
+    "link_maps": "https://goo.gl/maps/aDhw6gEKfW9Gk9sd8",
+    "link_instagram": "https://instagram.com/bombeefleopoldina?utm_medium=copy_link",
+    "link_wpp": "https://api.whatsapp.com/send?phone=551191428-1780",
+    "link_2t": "https://catalogo.onbeefapp.com.br/bom-beef-vila-leopoldina"
+},
+{ 
+    "id": 2,
+    "name": "Bom Beef - Perdizes",
+    "street_name": "Rua Turiassú",
+    "street_number": "902",
+    "city": "São Paulo",
+    "state": "SP",
+    "link_maps": "https://goo.gl/maps/A3vKvjuCsEtSoVSu5",
+    "link_instagram": "https://instagram.com/bombeefperdizes?utm_medium=copy_link",
+    "link_wpp": "",
+    "link_2t": "https://catalogo.onbeefapp.com.br/bom-beef-perdizes"
+}]
